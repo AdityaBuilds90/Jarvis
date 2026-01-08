@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis - Futuristic AI Tutor",
+  "description": "An intelligent digital interface for educational focus, featuring a reactive, glowing core that listens and learns with you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
